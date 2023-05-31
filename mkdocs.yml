@@ -2,6 +2,7 @@ site_name: Terraform AzureRM Provider - Contributor Guide
 site_description: 'Contributor documentation and reference for the Terraform AzureRM Provider'
 copyright: HashiCorp
 
+
 repo_name: hashicorp/terraform-provider-azurerm
 repo_url: https://github.com/hashicorp/terraform-provider-azurerm
 edit_uri: "https://github.com/hashicorp/terraform-provider-azurerm/tree/main/contributing"
