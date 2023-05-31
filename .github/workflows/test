@@ -1,9 +1,8 @@
- name: Pull Request
-  on:
-    push:
-    workflow_dispatch
-  jobs:
-    context:
+on:
+   push:
+   workflow_dispatch
+jobs:
+   context:
       runs-on: ubuntu-latest
       steps:
         - name: Run Terratest
